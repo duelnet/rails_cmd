@@ -20,4 +20,4 @@ $ rails db:migrate                                       #push that migration in
 <a class="navbar-brand" href="<filder_file_path">Text</a>
 
 
-bundle install        #grabs all file in Gemfile and installs them
+$ bundle install        #grabs all file in Gemfile and installs them
