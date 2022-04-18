@@ -16,6 +16,10 @@ $ rake db:create
 $ rails db:migrate                                       #push that migration into database and make it live
 
 
+$ rails generate devise:install
+
+
+
 <%= link_to 'Text', folder_file_path, class:"navbar-brand" %>
 <a class="navbar-brand" href="<filder_file_path">Text</a>
 
